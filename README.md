@@ -17,3 +17,4 @@
     * [Installazione automatica](https://wordpress.org/support/article/automated-installation/)
   * Installare i plugin utilizzati frequentemente
     * [VVV Custom Site Template](https://github.com/Varying-Vagrant-Vagrants/custom-site-template)
+    * 
