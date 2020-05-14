@@ -1,6 +1,11 @@
 # Meetup Torino - Installa velocemente quello che ti serve e parti subito con WP
 
-14 maggio 2020
+![update](https://img.shields.io/badge/update-2020.05.14-informational)
+![version](https://img.shields.io/badge/version-0.1-blue)
+
+
+|![Meetup Torino](imgs/meetup-torino-120.jpeg) | *14 maggio 2020* - Installa velocemente quello che ti serve e parti subito con WP|
+|--|--|
 
 * installare WordPress
   * Locale
